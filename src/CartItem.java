@@ -6,6 +6,6 @@ public class CartItem {
     private double price;
 
     public double calculateItemTotal(){
-
+        return 0;
     }
 }
